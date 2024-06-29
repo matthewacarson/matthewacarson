@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated in June 2024 from the University of California, Los Angeles, summa cum laude with a double major in Sociology and Political Science. During my senior year, I completed two senior theses—one in sociology and the other in political science—both of which won the best thesis prize in their respective departments.
+I graduated in June 2024 from the University of California, Los Angeles, *summa cum laude*, with a double major in Sociology and Political Science. During my senior year, I completed two senior theses—one in sociology and the other in political science—both of which won the best thesis prize in their respective departments.
 
 The sociology thesis was a historical-comparative project that analyzed different methods of union organizing. Specifically, I focused on how construction unions organize and establish relations with employers, and how this corresponds with more employer-friendly political stances compared to other unions. Additionally, I explored how these organizing methods place construction unions in a weaker position, hindering their ability to challenge management and defend workers’ interests.
 
