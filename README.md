@@ -1,5 +1,12 @@
 ### Hi there 👋
-[CV](https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf)
+
+I graduated in June 2024 from the University of California, Los Angeles, summa cum laude with a double major in Sociology and Political Science. During my senior year, I completed two senior theses—one in sociology and the other in political science—both of which won the best thesis prize in their respective departments.
+
+The sociology thesis was a historical-comparative project that analyzed different methods of union organizing. Specifically, I focused on how construction unions organize and establish relations with employers, and how this corresponds with more employer-friendly political stances compared to other unions. Additionally, I explored how these organizing methods place construction unions in a weaker position, hindering their ability to challenge management and defend workers’ interests.
+
+The political science thesis examined the relationship between economic inequality, gentrification, and police killings, using census tract household income data and the Urban Displacement Project’s gentrification typologies. I also analyzed the interactions between the race of the victim, the racial composition of the census tract, and the median household income. My hope is that this project contributes to a better understanding of the relationship between race, economic inequality, gentrification, and police killings.
+
+# [CV](https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf)
 <!--
 **matthewacarson/matthewacarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
