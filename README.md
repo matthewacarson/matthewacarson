@@ -6,7 +6,7 @@ The sociology thesis was a historical-comparative project that analyzed differen
 
 The political science thesis examined the relationship between economic inequality, gentrification, and police killings, using census tract household income data and the Urban Displacement Project’s gentrification typologies. I also analyzed the interactions between the race of the victim, the racial composition of the census tract, and the median household income. My hope is that this project contributes to a better understanding of the relationship between race, economic inequality, gentrification, and police killings.
 
-# [View CV](https://github.com/matthewacarson/matt_carson_cv/blob/main/matt_carson_cv.pdf)
+# [View CV](https://matthewacarson.github.io/cv)
 <!--
 **matthewacarson/matthewacarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
